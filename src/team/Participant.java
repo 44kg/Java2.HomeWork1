@@ -10,6 +10,7 @@ public class Participant {
         this.name = name;
         this.speed = speed;
         this.stamina = stamina;
+        result = new ParticipantResult();
     }
 
     public int getSpeed() {

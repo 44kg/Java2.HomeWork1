@@ -6,4 +6,8 @@ public class Barrier {
     public Barrier(int complexity) {
         this.complexity = complexity;
     }
+
+    public int getComplexity() {
+        return complexity;
+    }
 }

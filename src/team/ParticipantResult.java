@@ -5,7 +5,7 @@ public class ParticipantResult {
     private boolean isDid;
 
     public ParticipantResult() {
-        timeResult = -1;
+        timeResult = 0;
         isDid = false;
     }
 
